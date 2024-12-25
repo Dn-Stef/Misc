@@ -17,3 +17,12 @@ scikit-learn 1.5.1
 $${\color{red}Note:  \space The  \space  NASAPS201224.xlsx \space file  \space must  \space be  \space downloaded,  \space and  \space the  \space path  \space to  \space this  \space file  \space in  \space the  \space Python  \space script  \space should  \space be  \space updated  \space accordingly.}$$	
 
 ---
+### pend.py
+This is a basic simulation of a simple pendulum, using Pygame for visualization and basic physics principles. The pendulum's motion is influenced by both gravity and air resistance (drag force). The simulation displays the pendulum's motion in real-time, along with dynamic counters showing the pendulum's velocity magnitude in the X and Y axes, as well as the drag force.
+
+Requirements:
+```
+pygame 2.1.2
+```
+
+---
